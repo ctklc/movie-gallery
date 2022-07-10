@@ -1,0 +1,415 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751
+      ],
+      "id": 459151,
+      "original_language": "en",
+      "original_title": "The Boss Baby: Family Business",
+      "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+      "popularity": 470.27,
+      "poster_path": "/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+      "release_date": "2021-07-01",
+      "title": "The Boss Baby: Family Business",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1976
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 211672,
+      "original_language": "en",
+      "original_title": "Minions",
+      "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "popularity": 468.933,
+      "poster_path": "/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+      "release_date": "2015-06-17",
+      "title": "Minions",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 9331
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 831728,
+      "original_language": "de",
+      "original_title": "Willkommen in Siegheilkirchen",
+      "overview": "1960's Siegheilkirchen, a small town in the Austrian hinterland is steeped in reactionary and ultra-Catholic attitudes. The son of a hard-working innkeeper and his wife, called Snotty Boy by all and sundry, is at odds with the narrow-minded confines of his home town. But his unstoppable talent for drawing gives him an outlet for his discontent.",
+      "popularity": 466.741,
+      "poster_path": "/xvgmSslUbi416VwsW1C1Cp90yX.jpg",
+      "release_date": "2022-01-13",
+      "title": "Snotty Boy",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jdLirLFnvSuAKin2XqZkwOEv4Km.jpg",
+      "genre_ids": [
+        16,
+        28,
+        35
+      ],
+      "id": 913205,
+      "original_language": "en",
+      "original_title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+      "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
+      "popularity": 447.397,
+      "poster_path": "/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg",
+      "release_date": "2022-05-23",
+      "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIgfFzjjBNgx6Tr2LCw8Zkq921s.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878
+      ],
+      "id": 303857,
+      "original_language": "ja",
+      "original_title": "ドラゴンボールZ 復活の「F」",
+      "overview": "One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
+      "popularity": 434.673,
+      "poster_path": "/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+      "release_date": "2015-04-18",
+      "title": "Dragon Ball Z: Resurrection 'F'",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1zgob2Z8xVE3RZUgOKnHKcVPzOE.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14
+      ],
+      "id": 877183,
+      "original_language": "en",
+      "original_title": "The Simpsons in Plusaversary",
+      "overview": "The Simpsons host a Disney+ Day party and everyone is on the list… except Homer. With friends from across the service and music fit for a Disney Princess, Plusaversary is Springfield's event of the year.",
+      "popularity": 336.16,
+      "poster_path": "/p5jzbffrXuBTjsiwrQ3aOMTrvCj.jpg",
+      "release_date": "2021-11-12",
+      "title": "The Simpsons in Plusaversary",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 304
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 508943,
+      "original_language": "en",
+      "original_title": "Luca",
+      "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+      "popularity": 330.089,
+      "poster_path": "/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg",
+      "release_date": "2021-06-17",
+      "title": "Luca",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 6441
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        35
+      ],
+      "id": 675445,
+      "original_language": "en",
+      "original_title": "PAW Patrol: The Movie",
+      "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+      "popularity": 326.887,
+      "poster_path": "/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+      "release_date": "2021-08-09",
+      "title": "PAW Patrol: The Movie",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 969
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yIDS5QLvKtgzfu43eUWx5JkGW6p.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 126963,
+      "original_language": "ja",
+      "original_title": "ドラゴンボールZ 神と神",
+      "overview": "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. After awakening from a long slumber, Beerus, the God of Destruction is visited by Whis, his attendant and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Beerus, but he is easily overwhelmed and defeated. Beerus leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost.",
+      "popularity": 310.102,
+      "poster_path": "/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg",
+      "release_date": "2013-03-30",
+      "title": "Dragon Ball Z: Battle of Gods",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g3qg4cUjlBxLxdAob6C2of04t8B.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 851907,
+      "original_language": "en",
+      "original_title": "Furry Friends Forever: Elmo Gets a Puppy",
+      "overview": "An upcoming animated Sesame Street special premiering on HBO Max on August 5, 2021. The special serves as an introduction to Tango, Elmo's new pet puppy.",
+      "popularity": 308.732,
+      "poster_path": "/eP8A6bJxbaP5wsYgCXPafMZKFwB.jpg",
+      "release_date": "2021-08-05",
+      "title": "Furry Friends Forever: Elmo Gets a Puppy",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mUC2BS04DlszdqJQ9vz9MFuPiDd.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 20982,
+      "original_language": "ja",
+      "original_title": "劇場版 NARUTO -ナルト- 疾風伝",
+      "overview": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \"prediction of death.\"",
+      "popularity": 285.483,
+      "poster_path": "/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+      "release_date": "2007-08-04",
+      "title": "Naruto Shippuden the Movie",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 450
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vzJkN2vpIiCXzQ6AgwMmNhRPag2.jpg",
+      "genre_ids": [
+        16,
+        18,
+        878,
+        10402
+      ],
+      "id": 776305,
+      "original_language": "ja",
+      "original_title": "竜とそばかすの姫",
+      "overview": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+      "popularity": 282.454,
+      "poster_path": "/e143CxHsD7oVxqrxk29I5SJrjrl.jpg",
+      "release_date": "2021-07-16",
+      "title": "Belle",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 362
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 726684,
+      "original_language": "fr",
+      "original_title": "Miraculous World: Shanghai, la légende de Ladydragon",
+      "overview": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+      "popularity": 280.265,
+      "poster_path": "/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg",
+      "release_date": "2021-05-15",
+      "title": "Miraculous World: Shanghai – The Legend of Ladydragon",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 453
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        35,
+        80
+      ],
+      "id": 20352,
+      "original_language": "en",
+      "original_title": "Despicable Me",
+      "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+      "popularity": 276.133,
+      "poster_path": "/6nfkIJB0mIjM9hGL0jPTAOS879P.jpg",
+      "release_date": "2010-07-08",
+      "title": "Despicable Me",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 13195
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eN1TMy5hT72G2v92x5cNM5trdFv.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "id": 34433,
+      "original_language": "ja",
+      "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
+      "overview": "While the Saiyan Paragus persuades Vegeta to rule a new planet, King Kai alerts Goku of the South Galaxy's destruction by an unknown Super Saiyan.",
+      "popularity": 274.563,
+      "poster_path": "/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
+      "release_date": "1993-03-06",
+      "title": "Dragon Ball Z: Broly – The Legendary Super Saiyan",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 656
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q1NXVYTqSStNQsnKrCvtU6NPzEk.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        37
+      ],
+      "id": 892153,
+      "original_language": "en",
+      "original_title": "Tom and Jerry Cowboy Up!",
+      "overview": "This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!",
+      "popularity": 267.703,
+      "poster_path": "/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+      "release_date": "2022-01-24",
+      "title": "Tom and Jerry Cowboy Up!",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 347
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg",
+      "genre_ids": [
+        16,
+        18,
+        878
+      ],
+      "id": 741335,
+      "original_language": "ja",
+      "original_title": "アイの歌声を聴かせて",
+      "overview": "Satomi is fine being alone until an AI named Shion joins her class with a song and a promise to make her happy. While Shion’s musical numbers and princess gowns don’t quite pass as human, her antics bring Satomi closer to four other classmates. Together, they make memories worth saving, but even our most precious data can be erased.",
+      "popularity": 261.605,
+      "poster_path": "/bDx77d1SLXGWIGMlz6nWx0SghiT.jpg",
+      "release_date": "2021-10-29",
+      "title": "Sing a Bit of Harmony",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3FcsFvnf5g04kvlokN2qu1e3zf.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 829920,
+      "original_language": "ja",
+      "original_title": "Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-",
+      "overview": "The Chaldea Organization must deal with the Grand Temple of Solomon, the King of Magic, which has come to destroy the world.",
+      "popularity": 258.956,
+      "poster_path": "/1kRgPGHmqSpKdx1dzCjzG6QoYHb.jpg",
+      "release_date": "2021-07-30",
+      "title": "Fate/Grand Order Final Singularity – Grand Temple of Time: Solomon",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/adlZgxAudw3ZPA0HUcDzSTKrH8B.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12,
+        10770
+      ],
+      "id": 755812,
+      "original_language": "fr",
+      "original_title": "Miraculous World : New York, les héros unis",
+      "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+      "popularity": 254.711,
+      "poster_path": "/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+      "release_date": "2020-09-25",
+      "title": "Miraculous World: New York, United HeroeZ",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 905
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fy8bBNQyKtRnznm3G3QWdu2wIC8.jpg",
+      "genre_ids": [
+        16,
+        28,
+        35
+      ],
+      "id": 347201,
+      "original_language": "ja",
+      "original_title": "BORUTO -NARUTO THE MOVIE-",
+      "overview": "The spirited Boruto Uzumaki, son of Seventh Hokage Naruto, is a skilled ninja who possesses the same brashness and passion his father once had. However, the constant absence of his father, who is busy with his Hokage duties, puts a damper on Boruto's fire. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain on the story of the new generation rises!",
+      "popularity": 251.807,
+      "poster_path": "/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+      "release_date": "2015-08-07",
+      "title": "Boruto: Naruto the Movie",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1052
+    }
+  ],
+  "total_pages": 1949,
+  "total_results": 38963
+}
